@@ -1,0 +1,16 @@
+{
+    "faqs": [
+        {
+            "question": "What is your return policy?",
+            "answer": "Our return policy allows returns within 30 days of purchase."
+        },
+        {
+            "question": "How can I track my order?",
+            "answer": "You can track your order using the tracking link provided in the confirmation email."
+        },
+        {
+            "question": "What payment methods do you accept?",
+            "answer": "We accept credit cards, debit cards, and PayPal."
+        }
+    ]
+}
